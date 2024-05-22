@@ -8,7 +8,7 @@ import './styles/globals.css'
 import './styles/markdown.scss'
 
 export const metadata = {
-  title: 'Dify',
+  title: 'PTMIND.AI',
 }
 
 export const viewport: Viewport = {
@@ -33,6 +33,7 @@ const LocaleLayout = ({
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+        <link rel="shortcut icon" href="/ai.png" type="image/png" />
       </head>
       <body
         className="h-full select-auto"

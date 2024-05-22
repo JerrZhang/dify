@@ -25,7 +25,7 @@ const GA: FC<IGAProps> = ({
 
   return (
     <>
-      <Script strategy="beforeInteractive" async src={`https://www.googletagmanager.com/gtag/js?id=${gaIdMaps[gaType]}`}></Script>
+      {/* <Script strategy="beforeInteractive" async src={`https://www.googletagmanager.com/gtag/js?id=${gaIdMaps[gaType]}`}></Script>
       <Script
         id="ga-init"
         dangerouslySetInnerHTML={{
@@ -37,7 +37,7 @@ gtag('config', '${gaIdMaps[gaType]}');
           `,
         }}
       >
-      </Script>
+      </Script> */}
     </>
 
   )
