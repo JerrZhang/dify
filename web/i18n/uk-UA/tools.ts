@@ -8,7 +8,7 @@ const translation = {
   },
   contribute: {
     line1: 'Мені цікаво зробити свій внесок',
-    line2: 'створення інструментів для Dify.',
+    line2: 'створення інструментів для  PTMIND.AI.',
     viewGuide: 'Переглянути інструкцію',
   },
   author: 'Автор',

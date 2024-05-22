@@ -80,7 +80,7 @@ export const languages = [
   {
     value: 'en-US',
     name: 'English(United States)',
-    example: 'Hello, Dify!',
+    example: 'Hello,  PTMIND.AI!',
     supported: true,
   },
   {
@@ -92,25 +92,25 @@ export const languages = [
   {
     value: 'pt-BR',
     name: 'Português(Brasil)',
-    example: 'Olá, Dify!',
+    example: 'Olá,  PTMIND.AI!',
     supported: true,
   },
   {
     value: 'es-ES',
     name: 'Español(España)',
-    example: 'Saluton, Dify!',
+    example: 'Saluton,  PTMIND.AI!',
     supported: false,
   },
   {
     value: 'fr-FR',
     name: 'Français(France)',
-    example: 'Bonjour, Dify!',
+    example: 'Bonjour,  PTMIND.AI!',
     supported: false,
   },
   {
     value: 'de-DE',
     name: 'Deutsch(Deutschland)',
-    example: 'Hallo, Dify!',
+    example: 'Hallo,  PTMIND.AI!',
     supported: false,
   },
   {
@@ -122,37 +122,37 @@ export const languages = [
   {
     value: 'ko-KR',
     name: '한국어(대한민국)',
-    example: '안녕, Dify!',
+    example: '안녕,  PTMIND.AI!',
     supported: true,
   },
   {
     value: 'ru-RU',
     name: 'Русский(Россия)',
-    example: ' Привет, Dify!',
+    example: ' Привет,  PTMIND.AI!',
     supported: false,
   },
   {
     value: 'it-IT',
     name: 'Italiano(Italia)',
-    example: 'Ciao, Dify!',
+    example: 'Ciao,  PTMIND.AI!',
     supported: false,
   },
   {
     value: 'th-TH',
     name: 'ไทย(ประเทศไทย)',
-    example: 'สวัสดี Dify!',
+    example: 'สวัสดี  PTMIND.AI!',
     supported: false,
   },
   {
     value: 'id-ID',
     name: 'Bahasa Indonesia',
-    example: 'Saluto, Dify!',
+    example: 'Saluto,  PTMIND.AI!',
     supported: false,
   },
   {
     value: 'uk-UA',
     name: 'Українська(Україна)',
-    example: 'Привет, Dify!',
+    example: 'Привет,  PTMIND.AI!',
     supported: true,
   },
   // Add your language here 👇

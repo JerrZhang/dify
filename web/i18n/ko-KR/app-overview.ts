@@ -25,7 +25,7 @@ const translation = {
     callTimes: '요청 횟수',
     usedToken: '사용된 토큰',
     setAPIBtn: '모델 제공자 설정으로 이동',
-    tryCloud: '또는 Dify의 클라우드 버전을 무료로 체험해보세요',
+    tryCloud: '또는  PTMIND.AI의 클라우드 버전을 무료로 체험해보세요',
   },
   overview: {
     title: '개요',
@@ -49,7 +49,7 @@ const translation = {
           copyRightPlaceholder: '저작권자 또는 조직 이름을 입력하세요',
           privacyPolicy: '개인정보 처리방침',
           privacyPolicyPlaceholder: '개인정보 처리방침 링크를 입력하세요',
-          privacyPolicyTip: '방문자가 애플리케이션이 수집하는 데이터를 이해하고, Dify의 <privacyPolicyLink>개인정보 처리방침</privacyPolicyLink>을 참조할 수 있도록 합니다.',
+          privacyPolicyTip: '방문자가 애플리케이션이 수집하는 데이터를 이해하고,  PTMIND.AI의 <privacyPolicyLink>개인정보 처리방침</privacyPolicyLink>을 참조할 수 있도록 합니다.',
         },
       },
       embedded: {

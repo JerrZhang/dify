@@ -173,7 +173,7 @@ const translation = {
     sendInvite: '초대 보내기',
     invitedAsRole: '{{role}} 사용자로 초대되었습니다',
     invitationSent: '초대가 전송되었습니다',
-    invitationSentTip: '초대가 전송되었으며, 그들은 Dify에 로그인하여 당신의 팀 데이터에 액세스할 수 있습니다.',
+    invitationSentTip: '초대가 전송되었으며, 그들은  PTMIND.AI에 로그인하여 당신의 팀 데이터에 액세스할 수 있습니다.',
     invitationLink: '초대 링크',
     failedinvitationEmails: '다음 사용자들은 성공적으로 초대되지 않았습니다',
     ok: '확인',
@@ -362,7 +362,7 @@ const translation = {
     },
   },
   apiBasedExtension: {
-    title: 'API 기반 확장은 Dify 애플리케이션 전체에서 간편한 사용을 위한 설정을 단순화하고 집중적인 API 관리를 제공합니다.',
+    title: 'API 기반 확장은  PTMIND.AI 애플리케이션 전체에서 간편한 사용을 위한 설정을 단순화하고 집중적인 API 관리를 제공합니다.',
     link: '사용자 정의 API 기반 확장을 개발하는 방법 배우기',
     linkUrl: 'https://docs.dify.ai/features/extension/api_based_extension',
     add: 'API 기반 확장 추가',

@@ -1,7 +1,7 @@
 const translation = {
   list: {
     title: 'Dokumenty',
-    desc: 'Wszystkie pliki wiedzy są tutaj pokazane, a cała wiedza może być powiązana z odnośnikami Dify lub zindeksowana za pomocą wtyczki Chat.',
+    desc: 'Wszystkie pliki wiedzy są tutaj pokazane, a cała wiedza może być powiązana z odnośnikami  PTMIND.AI lub zindeksowana za pomocą wtyczki Chat.',
     addFile: 'dodaj plik',
     addPages: 'Dodaj strony',
     table: {
