@@ -18,11 +18,13 @@ const GithubStar = () => {
   useEffect(() => {
     (async () => {
       try {
-        if (process.env.NODE_ENV === 'development')
-          return
+        //去掉 github标记
+        return ;
+        // if (process.env.NODE_ENV === 'development')
+        //   return
 
-        await setGithubRepo(await getStar())
-        setIsFetched(true)
+        // await setGithubRepo(await getStar())
+        // setIsFetched(true)
       }
       catch (e) {
 
